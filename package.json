@@ -1,0 +1,12 @@
+{
+  "name": "login1",
+  "scripts": {
+      "start": "node scr/main.js"
+  },
+  "dependencies": {
+      "dotenv": "16.3.1",
+      "express": "4.18.2",
+      "jsonwebtoken": "^9.0.0",
+      "mysql": "2.18.1"
+  }
+}
